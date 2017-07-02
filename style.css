@@ -1,0 +1,84 @@
+body{
+  /*background-color: #eaeaea;*/
+  margin: 0;
+}
+.container{
+  background-color: #fff;
+  margin: auto;
+  margin-top: 100px;
+  padding: 50px;
+  max-width: 1100px;
+  border-radius: 10px;
+
+text-align: center;
+}
+button{
+  background-color: red;
+  color: white;
+  padding: 20px;
+  border: none;
+  font-size: 2em;
+  border-radius: 5px;
+  box-shadow: 5px 5px 15px #888888;
+}
+button:hover{
+  opacity: .8;
+}
+button:active, button:focus{
+  outline: none;
+}
+#dice-div{
+  margin-top: 20px;
+}
+img{
+  margin-left: 10px;
+  margin-top: 10px;
+  width: 75px;
+  height: 75px;
+  display: inline-block;
+  float: left;
+}
+.clear{
+  padding-top: 20px;
+  clear: both;
+}
+#dbl-six{
+  color: blue;
+}
+
+
+/*.dice{
+  margin-left: 20px;
+  margin-top: 20px;
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  float: left;
+}
+.dice-1, .dice-2, .dice-3, .dice-4, .dice-5, .dice-6{
+  background-size: cover;
+}
+.dice-1{
+  background-image: url(images/dice-1.png);
+}
+.dice-2{
+  background-image: url(images/dice-2.png);
+}
+.dice-3{
+  background-image: url(images/dice-3.png);
+}
+.dice-4{
+  background-image: url(images/dice-4.png);
+}
+.dice-5{
+  background-image: url(images/dice-5.png);
+}
+.dice-6{
+  background-image: url(images/dice-6.png);
+}
+.return{
+  color: red;
+}
+.hide-div{
+  display: none;
+}*/
